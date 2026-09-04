@@ -7,7 +7,7 @@ about:
   head: 8aa6b23
   archived: false
   latestVersion: v3.2.1
-  collectedAt: 2026-09-04T19:23:43Z
+  collectedAt: 2026-09-04T21:08:01Z
 timeline:
   created: 2022-02-01
   lastCommit: 2025-11-15
@@ -82,5 +82,33 @@ total:
   openIssue: 11
   commit: 949
 ---
+path: /home/runner/.x-repo/github.com/kraanzu/smassh
+collectedAt: 2026-09-04T21:08:03Z
+loc:
+  Python:
+    code: 2806
+    comments: 48
+    blanks: 785
+    files: 51
+  Nix:
+    code: 55
+    comments: 1
+    blanks: 9
+    files: 1
+  Toml:
+    code: 34
+    comments: 0
+    blanks: 6
+    files: 1
+  Markdown:
+    code: 0
+    comments: 263
+    blanks: 124
+    files: 4
+total:
+  code: 2898
+  comments: 312
+  blanks: 924
+  files: 57
 ---
 
