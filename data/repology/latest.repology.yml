@@ -1,0 +1,156 @@
+- repo: aur
+  srcname: smassh
+  binname: smassh
+  visiblename: smassh
+  version: 3.2.1
+  origversion: 3.2.1-2
+  status: newest
+  summary: TUI based typing test application inspired by MonkeyType
+  maintainers:
+    - kraanzu@aur
+    - jaxvanyang@aur
+  licenses:
+    - GPL-3.0-only
+- repo: aur
+  srcname: smassh-bin
+  binname: smassh-bin
+  visiblename: smassh-bin
+  version: 3.2.1
+  origversion: 3.2.1-1
+  status: newest
+  summary: TUI based typing test application inspired by MonkeyType
+  maintainers:
+    - jaxvanyang@aur
+    - kraanzu@aur
+  licenses:
+    - GPL-3.0-only
+- repo: chocolatey
+  binname: smassh
+  visiblename: Smassh (Portable)
+  version: 3.2.1
+  origversion: null
+  status: newest
+  summary: Smassh your Keyboard, TUI Edition
+- repo: nix_stable_24_05
+  srcname: smassh
+  visiblename: smassh
+  version: 3.1.3
+  origversion: null
+  status: outdated
+  summary: A TUI based typing test application inspired by MonkeyType
+  maintainers:
+    - rickomo.us@gmail.com
+  licenses:
+    - GPL-3.0-or-later
+- repo: alpine_edge
+  subrepo: testing
+  srcname: smassh
+  binname: smassh
+  visiblename: smassh
+  version: 3.1.6
+  origversion: 3.1.6-r1
+  status: outdated
+  summary: TUI-based typing test application inspired by MonkeyType
+  maintainers:
+    - folliekazetani@protonmail.com
+  licenses:
+    - GPL-3.0-or-later
+- repo: alpine_edge
+  subrepo: testing
+  srcname: smassh
+  binname: smassh-pyc
+  visiblename: smassh-pyc
+  version: 3.1.6
+  origversion: 3.1.6-r1
+  status: outdated
+  summary: Precompiled Python bytecode for smassh
+  maintainers:
+    - folliekazetani@protonmail.com
+  licenses:
+    - GPL-3.0-or-later
+- repo: nix_stable_24_11
+  srcname: smassh
+  visiblename: smassh
+  version: 3.1.6
+  origversion: null
+  status: outdated
+  summary: TUI based typing test application inspired by MonkeyType
+  maintainers:
+    - rickomo.us@gmail.com
+    - kraanzu@gmail.com
+  licenses:
+    - GPL-3.0-or-later
+- repo: nix_stable_25_05
+  srcname: smassh
+  visiblename: smassh
+  version: 3.1.6
+  origversion: null
+  status: outdated
+  summary: TUI based typing test application inspired by MonkeyType
+  maintainers:
+    - rickomo.us@gmail.com
+    - kraanzu@gmail.com
+  licenses:
+    - GPL-3.0-or-later
+- repo: nix_stable_25_11
+  srcname: smassh
+  visiblename: smassh
+  version: 3.1.7
+  origversion: null
+  status: outdated
+  summary: TUI based typing test application inspired by MonkeyType
+  maintainers:
+    - rickomo.us@gmail.com
+    - kraanzu@gmail.com
+  licenses:
+    - GPL-3.0-or-later
+- repo: nix_stable_26_05
+  srcname: smassh
+  visiblename: smassh
+  version: 3.2.1
+  origversion: null
+  status: newest
+  summary: TUI based typing test application inspired by MonkeyType
+  maintainers:
+    - rickomo.us@gmail.com
+    - kraanzu@gmail.com
+  licenses:
+    - GPL-3.0-or-later
+- repo: nix_unstable
+  srcname: smassh
+  visiblename: smassh
+  version: 3.2.1
+  origversion: null
+  status: newest
+  summary: TUI based typing test application inspired by MonkeyType
+  maintainers:
+    - rickomo.us@gmail.com
+    - kraanzu@gmail.com
+  licenses:
+    - GPL-3.0-or-later
+- repo: opensuse_education_tumbleweed
+  srcname: smassh
+  binnames:
+    - smassh
+  visiblename: smassh
+  version: 3.1.6
+  origversion: 3.1.6-1.40
+  status: outdated
+  summary: TUI based typing test application
+  licenses:
+    - GPL-3.0-only
+  categories:
+    - Amusements/Teaching/Language
+- repo: void_x86_64
+  subrepo: x86_64
+  srcname: smassh
+  binname: smassh
+  visiblename: smassh
+  version: 3.2.1
+  origversion: 3.2.1_1
+  status: newest
+  summary: TUI based typing test application inspired by MonkeyType
+  maintainers:
+    - github@johntaylor.hu
+  licenses:
+    - GPL-3.0-or-later
