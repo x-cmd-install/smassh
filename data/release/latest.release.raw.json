@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 19539648,
       "digest": "sha256:11e125df20e55e82c3d98948ab4d37feaea0267f2c26dc92fd11c549f0ee40e7",
-      "download_count": 2151,
+      "download_count": 2152,
       "created_at": "2025-11-15T06:41:23Z",
       "updated_at": "2025-11-15T06:41:23Z",
       "browser_download_url": "https://github.com/kraanzu/smassh/releases/download/v3.2.1/linux-smassh"
