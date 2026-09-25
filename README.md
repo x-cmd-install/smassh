@@ -36,7 +36,7 @@ Total: **2,895** lines of code across **57** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,050 · **Forks**: 71 · **Open issues**: 63 · **Contributors**: 18
+- **Stars**: 2,051 · **Forks**: 71 · **Open issues**: 63 · **Contributors**: 18
 
 ## Totals (cumulative)
 
@@ -46,12 +46,12 @@ Total: **2,895** lines of code across **57** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-25 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-26 | 0 | 1 | 1 | 0 | 0 | 0 |
-| 90d | 2026-06-26 | 0 | 1 | 1 | 0 | 0 | 0 |
-| last180d | 2026-03-28 | 0 | 1 | 1 | 0 | 2 | 0 |
-| 360d | 2025-09-29 | 1 | 3 | 1 | 3 | 3 | 8 |
-| last720d | 2024-10-04 | 2 | 5 | 1 | 6 | 6 | 22 |
+| 30d | 2026-08-26 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-27 | 0 | 1 | 1 | 0 | 0 | 0 |
+| 90d | 2026-06-27 | 0 | 1 | 1 | 0 | 0 | 0 |
+| last180d | 2026-03-29 | 0 | 1 | 1 | 0 | 2 | 0 |
+| 360d | 2025-09-30 | 1 | 3 | 1 | 3 | 3 | 8 |
+| last720d | 2024-10-05 | 2 | 5 | 1 | 6 | 6 | 22 |
 
 ## Release assets
 
@@ -70,4 +70,4 @@ Install metadata for smassh lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260924.yml` · 2026-09-24T06:02:05Z._
+_Snapshot: `data/card/260925.yml` · 2026-09-25T06:14:35Z._
