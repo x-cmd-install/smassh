@@ -37,22 +37,22 @@ Total: **3,135** lines of code across **61** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,058 · **Forks**: 72 · **Open issues**: 64 · **Contributors**: 20
+- **Stars**: 2,058 · **Forks**: 73 · **Open issues**: 64 · **Contributors**: 20
 
 ## Totals (cumulative)
 
-- **Releases**: 17 · **Merged PRs**: 48 · **Open PRs**: 0 · **Closed issues**: 53 · **Open issues**: 11 · **Commits**: 957
+- **Releases**: 17 · **Merged PRs**: 48 · **Open PRs**: 1 · **Closed issues**: 53 · **Open issues**: 11 · **Commits**: 957
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-10 | 0 | 2 | 0 | 0 | 1 | 3 |
-| last60d | 2026-09-10 | 0 | 2 | 0 | 0 | 1 | 4 |
-| 90d | 2026-08-11 | 0 | 2 | 0 | 0 | 1 | 4 |
-| last180d | 2026-05-13 | 0 | 4 | 0 | 0 | 3 | 5 |
-| 360d | 2025-11-14 | 1 | 6 | 0 | 3 | 3 | 8 |
-| last720d | 2024-11-19 | 2 | 8 | 0 | 7 | 6 | 30 |
+| 30d | 2026-10-11 | 0 | 2 | 1 | 0 | 1 | 3 |
+| last60d | 2026-09-11 | 0 | 2 | 1 | 0 | 1 | 4 |
+| 90d | 2026-08-12 | 0 | 2 | 1 | 0 | 1 | 4 |
+| last180d | 2026-05-14 | 0 | 4 | 1 | 0 | 2 | 5 |
+| 360d | 2025-11-15 | 1 | 4 | 1 | 3 | 3 | 8 |
+| last720d | 2024-11-20 | 2 | 8 | 1 | 7 | 6 | 30 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for smassh lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261109.yml` · 2026-11-09T07:54:32Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T09:05:02Z._
