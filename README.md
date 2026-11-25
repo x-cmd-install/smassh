@@ -37,7 +37,7 @@ Total: **3,135** lines of code across **61** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,056 · **Forks**: 72 · **Open issues**: 64 · **Contributors**: 20
+- **Stars**: 2,057 · **Forks**: 72 · **Open issues**: 64 · **Contributors**: 20
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **3,135** lines of code across **61** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-09-25 | 0 | 2 | 1 | 0 | 1 | 4 |
-| 90d | 2026-08-26 | 0 | 2 | 1 | 0 | 1 | 4 |
-| last180d | 2026-05-28 | 0 | 4 | 1 | 0 | 1 | 5 |
-| 360d | 2025-11-29 | 0 | 4 | 1 | 2 | 3 | 8 |
-| last720d | 2024-12-04 | 2 | 8 | 1 | 7 | 6 | 30 |
+| 30d | 2026-10-26 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last60d | 2026-09-26 | 0 | 2 | 1 | 0 | 1 | 4 |
+| 90d | 2026-08-27 | 0 | 2 | 1 | 0 | 1 | 4 |
+| last180d | 2026-05-29 | 0 | 4 | 1 | 0 | 1 | 5 |
+| 360d | 2025-11-30 | 0 | 4 | 1 | 2 | 3 | 8 |
+| last720d | 2024-12-05 | 2 | 8 | 1 | 7 | 6 | 30 |
 
 ## Release assets
 
@@ -61,16 +61,6 @@ Total: **3,135** lines of code across **61** files in the top 5 languages.
 | [linux-smassh](https://github.com/kraanzu/smassh/releases/download/v3.2.1/linux-smassh) | 18.6 MiB | `other` |
 | [macos-smassh](https://github.com/kraanzu/smassh/releases/download/v3.2.1/macos-smassh) | 10.3 MiB | `native/darwin/x64` |
 | [windows-smassh.exe](https://github.com/kraanzu/smassh/releases/download/v3.2.1/windows-smassh.exe) | 11.1 MiB | `native/win/x64` |
-
-## Distribution status
-
-Reported by **14** distros on [repology.org](https://repology.org/project/smassh). **9** are ✅ on the latest upstream release, **5** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Nix unstable | `3.2.1` | ✅ latest |
-| Void | `3.2.1` | ✅ latest |
-| Alpine edge | `3.2.1` | ✅ latest |
 
 ## Improve this data
 
@@ -81,4 +71,4 @@ Install metadata for smassh lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T10:50:09Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T09:57:01Z._

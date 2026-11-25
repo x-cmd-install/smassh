@@ -37,7 +37,7 @@ x install smassh
 
 ## 流行度
 
-- **Star**: 2,056 · **Fork**: 72 · **开放 issue**: 64 · **贡献者**: 20
+- **Star**: 2,057 · **Fork**: 72 · **开放 issue**: 64 · **贡献者**: 20
 
 ## 累计统计
 
@@ -47,12 +47,12 @@ x install smassh
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-09-25 | 0 | 2 | 1 | 0 | 1 | 4 |
-| 90d | 2026-08-26 | 0 | 2 | 1 | 0 | 1 | 4 |
-| last180d | 2026-05-28 | 0 | 4 | 1 | 0 | 1 | 5 |
-| 360d | 2025-11-29 | 0 | 4 | 1 | 2 | 3 | 8 |
-| last720d | 2024-12-04 | 2 | 8 | 1 | 7 | 6 | 30 |
+| 30d | 2026-10-26 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last60d | 2026-09-26 | 0 | 2 | 1 | 0 | 1 | 4 |
+| 90d | 2026-08-27 | 0 | 2 | 1 | 0 | 1 | 4 |
+| last180d | 2026-05-29 | 0 | 4 | 1 | 0 | 1 | 5 |
+| 360d | 2025-11-30 | 0 | 4 | 1 | 2 | 3 | 8 |
+| last720d | 2024-12-05 | 2 | 8 | 1 | 7 | 6 | 30 |
 
 ## Release 资产
 
@@ -61,16 +61,6 @@ x install smassh
 | [linux-smassh](https://github.com/kraanzu/smassh/releases/download/v3.2.1/linux-smassh) | 18.6 MiB | `other` |
 | [macos-smassh](https://github.com/kraanzu/smassh/releases/download/v3.2.1/macos-smassh) | 10.3 MiB | `native/darwin/x64` |
 | [windows-smassh.exe](https://github.com/kraanzu/smassh/releases/download/v3.2.1/windows-smassh.exe) | 11.1 MiB | `native/win/x64` |
-
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/smassh) 上共有 **14** 个发行版报告此项目。**9** 个 ✅ 已是最新上游版本，**5** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Nix unstable | `3.2.1` | ✅ latest |
-| Void | `3.2.1` | ✅ latest |
-| Alpine edge | `3.2.1` | ✅ latest |
 
 ## 改进这些数据
 
@@ -81,4 +71,4 @@ smassh 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261124.yml` · 2026-11-24T10:50:10Z._
+_数据快照: `data/card/261125.yml` · 2026-11-25T09:57:01Z._
